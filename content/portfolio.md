@@ -24,7 +24,7 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 |  |  |  |
+| Compétence 1 | Projet individuel de Géoinformatique II sur le ruissellement de surface à Locarno | J’ai choisi Locarno comme zone d’étude et une grille de 100 m pour organiser les données par cellule en vue d’une régression logistique |  |
 | Compétence 2  |  |  |  |
 |  Compétence 3 |  |  |  |
 |  Compétence 4 (hors cursus) |  |  |  |
