@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en géologie à l'**UNIL**.
+Je m’appelle Cristina Bortolotti et je suis étudiante en bachelor en géologie à l’**UNIL**. Je m’intéresse aux sciences de la Terre.
