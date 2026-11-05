@@ -10,7 +10,7 @@
 
 *Celles que tu reconnais, pas celles que tu devrais avoir. La référence suffit, par ex. TELEDE-3, avec trois mots d'intitulé.*
 
-1. 
+1. Préparer et traiter des données géospatiales dans QGIS.
 2. 
 3. 
 4. 
