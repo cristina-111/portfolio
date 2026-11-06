@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je m’appelle Cristina Bortolotti et je suis étudiante en bachelor en géologie à l’**UNIL**. Je m’intéresse aux sciences de la Terre et à l'analyse des sonnées.
+Je m’appelle Cristina Bortolotti et je suis étudiante en bachelor en géologie à l’**UNIL**. Je m’intéresse aux sciences de la Terre et à l'analyse des données.
